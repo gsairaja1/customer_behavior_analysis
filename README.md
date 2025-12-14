@@ -97,7 +97,7 @@ The Power BI dashboard provides:
 * Enabled data-driven decision-making through visualization
 
 ---
-<img width="1363" height="746" alt="Screenshot 2025-12-14 172855" src="https://github.com/user-attachments/assets/dec3e374-3d05-4b7c-aaef-de77db087aa9" />
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/ca908c69-f115-4548-9748-9907241863f2" />
 
 ## How to Run
 
