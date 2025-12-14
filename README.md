@@ -18,7 +18,6 @@ This project demonstrates an end-to-end **data analytics workflow**, from raw da
 * **Data Types:** Numerical, categorical, and date/time fields
 * **Use Case:** Business analysis (sales / customer / operations metrics)
 
-> If you can’t clearly explain your dataset, recruiters assume you don’t understand it. Keep this tight.
 
 ---
 
@@ -87,7 +86,6 @@ The Power BI dashboard provides:
 * Category-wise and segment-wise breakdowns
 * Interactive filters for deeper analysis
 
-> If your dashboard needs explanation to look impressive, it’s badly designed.
 
 ---
 
@@ -99,6 +97,7 @@ The Power BI dashboard provides:
 * Enabled data-driven decision-making through visualization
 
 ---
+<img width="1363" height="746" alt="Screenshot 2025-12-14 172855" src="https://github.com/user-attachments/assets/dec3e374-3d05-4b7c-aaef-de77db087aa9" />
 
 ## How to Run
 
